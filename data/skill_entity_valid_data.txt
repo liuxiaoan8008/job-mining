@@ -1,0 +1,630 @@
+^ 熟 练 使 用 1 种 常 见 的 机 器 学 习 、 a i 的 框 架 ( s p a r k $
+O O O O O O O O O O O O O O O O O O O O O E E E E E O
+^ c a f f e $
+O E E E E E O
+^ p a d d l e p a d d l e $
+O E E E E E E E E E E E E O
+^ m x n e t $
+O E E E E E O
+^ t o r c h $
+O E E E E E O
+^ 掌 握 相 关 开 发 语 言 ( j a v a / p y t h o n 等 ) 、 框 架 、 数 据 库 、 l i n u x 等 相 关 知 识 $
+O O O O O O O O O O E E E E O E E E E E E O O O O O O O O O O E E E E E O O O O O O
+^ c t o 介 绍 ： 曾 任 阿 里 巴 巴 架 构 师 、 堆 糖 信 息 联 合 创 始 人 $
+O E O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 扎 实 的 数 据 分 析 和 建 模 能 力 3 、 有 计 算 机 视 觉 、 自 然 语 言 处 理 、 数 据 挖 掘 等 领 域 的 项 目 经 验 4 、 精 通 p y t h o n $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E O
+^ 熟 悉 常 见 的 机 器 学 习 框 架 5 、 具 有 丰 富 的 g p u 与 c u d a 研 发 经 验 $
+O O O O O O O O O O O O O O O O O O O E E E O E E E E O O O O O
+^ 负 责 广 告 c t r 预 估 技 术 创 新 与 优 化 $
+O O O O O E E E O O O O O O O O O O
+^ 3 、 熟 悉 基 本 的 聚 类 和 降 维 算 法 （ 如 k m e a n s $
+O O O O O O O O O O O O O O O O O E E E E E E O
+^ p c a 等 ） $
+O E E E O O O
+^ s v m $
+O E E E O
+^ 熟 悉 c n n 、 r n n 等 网 络 结 构 $
+O O O E E E O E E E O O O O O O
+^ 5 、 能 够 熟 练 使 用 p y t h o n $
+O O O O O O O O O E E E E E E O
+^ c + + $
+O E E E O
+^ r 或 m a t l a b 中 一 种 或 多 种 语 言 $
+O O O E E E E E E O O O O O O O O O
+^ 6 、 如 使 用 过 （ 包 括 但 不 限 于 ） t h e a n o $
+O O O O O O O O O O O O O O O E E E E E E O
+^ t e n s o r f l o w $
+O E E E E E E E E E E O
+^ k e r a s $
+O E E E E E O
+^ c a f f e 等 开 源 框 架 中 的 一 种 或 多 种 则 优 先 考 虑 $
+O E E E E E O O O O O O O O O O O O O O O O O O
+^ 2 、 熟 悉 n l p 、 机 器 学 习 、 深 度 学 习 的 理 论 基 础 $
+O O O O O E E E O O O O O O O O O O O O O O O O
+^ 4 、 熟 悉 l i n u x 平 台 、 j a v a / s c a l a / p y t h o n / c + + 中 一 种 或 多 种 语 言 编 程 $
+O O O O O E E E E E O O O E E E E O E E E E E O E E E E E E O E E E O O O O O O O O O O O
+^ 熟 练 运 用 s p a r k 以 及 如 t e n s o r f l o w 的 d l 框 架 有 垃 圾 文 本 识 别 $
+O O O O O E E E E E O O O E E E E E E E E E E O E E O O O O O O O O O O
+^ 图 片 鉴 黄 工 作 经 验 的 优 先 有 模 型 压 缩 与 加 速 工 作 经 验 的 优 先 熟 悉 社 群 发 现 或 图 卷 积 或 度 量 学 习 或 哈 希 学 习 的 优 先 熟 悉 前 端 特 别 是 手 机 端 环 境 的 优 先 有 s t o r m $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E O
+^ s p a r k s t r e a m i n g 平 台 开 发 经 验 者 优 先 热 爱 学 习 $
+O E E E E E O O O O O O O O O O O O O O O O O O O O O O O
+^ 职 位 描 述 ： p o s i t i o n d e s c r i p t i o n : 1 $
+O O O O O O O O O O O O O O O O O E O O O O O O O O O O
+^ e x e c u t e r e s e a r c h a n d a n a l y t i c s $
+O O O O E O O O O O O O E E O O O O O O O O O O O O O O O
+^ i n c l u d i n g d a t a s o u r c e s i d e n t i f i c a t i o n $
+O O O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ p r o c e s s i n g $
+O O O O E O O O O O O O
+^ m o d e l / a l g o r i t h m d e v e l o p m e n t $
+O O O O O O O O O E E O O O O O O O O O O O O O O O O O
+^ t u r n i n g i n s i g h t s i n t o a c t i o n a b l e r e c o m m e n d a t i o n $
+O O O O O O O O O O O O O O O O O O O O O E O O O O O O O O O O E E E O O O O O O O O O O
+^ p r e s e n t i n g a c t i o n a b l e r e c o m m e n d a t i o n a n d d r i v e a c t i o n s t o b u s i n e s s v a l u e c r e a t i o n $
+O O O O O O O O O O O O E O O O O O O O O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ m e n t o r j u n i o r d a t a s c i e n t i s t s a n d d a t a a n a l y s t $
+O O O O O O O O O O O O O O O O O O E O O O O O O O O O O O O O O O O O O O O O O O
+^ p a r t i c i p a t e i n a n d l e a d a d v a n c e d a n a l y t i c c a p a b i l i t y b u i l d i n g p r o g r a m $
+O O E E O O E O O O O O O O O O E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E O O O O O O O O O O O O O
+^ b e c r e a t i v e p r o b l e m s o l v e r u s i n g b i g d a t a $
+O O O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ m a c h i n e l e a r n i n g a n d o t h e r a d v a n c e d a n a l y t i c s s k i l l a l o n g s i d e l e a d e r s h i p a n d d i r e c t e n g a g e m e n t o f b u s i n e s s u s e r s $
+O O O E O O O O O O E E O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ d e s i g n r e s e a r c h a n d a n a l y t i c f r a m e w o r k s i n t h e c o n t e x t o f o v e r a l l p r o j e c t o b j e c t i v e s s u c h a s ( b u t n o t l i m i t e d t o ) m e d i a e f f e c t i v e n e s s $
+O O O O O O O O O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ c o n s u m e r e n g a g e m e n t $
+O E O O O O O O O O O O O O O O O O O O
+^ e t c $
+O O O E O
+^ c o l l a b o r a t e a c t i v e l y a n d e f f e c t i v e l y w i t h o t h e r f u n c t i o n s p a r t n e r s a n d l e a d e r s t o a c c o m p l i s h p r o j e c t o b j e c t i v e s $
+O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E O O O O O O O O O E E O O O O O O O E E O O O O O O O O O O E E E O O O O O O O O O O O O O O O O O O O O O O O
+^ p o s i t i o n r e q u i r e m e n t s : 1 、 计 算 机 或 相 关 专 业 硕 士 以 上 学 历 $
+O O O O O O O O O O O O E E O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 熟 悉 p y t h o n 或 者 r 开 发 $
+O O O E E E E E E O O O O O O
+^ 熟 悉 h a d o o p 、 h i v e 、 s p a r k 等 大 数 据 平 台 3 $
+O O O E E E E E E O E E E E O E E E E E O O O O O O O O
+^ 熟 悉 j a v a 者 优 先 4 $
+O O O E E E E O O O O O
+^ 根 据 要 求 建 立 模 型 （ 4 ） 熟 悉 了 解 p y t h o n 常 用 的 算 法 库 $
+O O O O O O O O O O O O O O O O E E E E E E O O O O O O O
+^ s k l e a r n 、 k e r a s 、 n u m p y 、 p a n d a s 等 $
+O E E E E E E E O E E E E E O E E E E E O E E E E E E O O
+^ 对 s p a r k 、 h a d o o p 熟 悉 者 优 先 $
+O O E E E E E O E E E E E E O O O O O O
+^ 优 秀 的 开 发 能 力 （ j a v a / s q l / s c a l a ) $
+O O O O O O O O O E E E E O E E E O E E E E E O O
+^ 精 通 大 数 据 开 发 平 台 （ h a d o o p / h i v e / s p a r k / s t o r m ) 4 $
+O O O O O O O O O O O E E E E E E O E E E E O E E E E E O E E E E E O O O
+^ 有 n l p 经 验 更 佳 $
+O O E E E O O O O O
+^ + 有 t e n s o r f l o w / t h e a n o / k e r a s / c a f f e / t o r c h 等 深 度 学 习 工 具 经 验 $
+O O O E E E E E E E E E E O E E E E E E O E E E E E O E E E E E O E E E E E O O O O O O O O O O
+^ + 良 好 的 开 发 能 力 （ s q l / j a v a / p y t h o n / r / s c a l a 等 ） $
+O O O O O O O O O O E E E O E E E E O E E E E E E O O O E E E E E O O O
+^ 了 解 大 数 据 开 发 平 台 （ h a d o o p / h i v e / s p a r k / s t o r m ) $
+O O O O O O O O O O O E E E E E E O E E E E O E E E E E O E E E E E O O
+^ 职 位 亮 点 ： u d e s k 是 国 内 领 先 的 企 业 级 智 能 客 服 平 台 $
+O O O O O O E E E E E O O O O O O O O O O O O O O O O
+^ 为 企 业 提 供 了 一 套 集 智 能 问 答 、 即 时 通 讯 、 v o i p 、 工 单 、 知 识 库 、 数 据 分 析 为 一 体 的 完 整 的 客 服 系 统 解 决 方 案 $
+O O O O O O O O O O O O O O O O O O O O E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ u d e s k 知 名 客 户 有 海 底 捞 、 星 巴 克 、 凯 撒 旅 游 、 中 青 旅 耀 悦 、 金 山 w p s 、 每 日 优 鲜 、 5 8 转 转 、 宝 洁 等 $
+O E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O E E E O O O O O O O O O O O O O O O
+^ u d e s k 去 年 6 月 完 成 b 轮 1 亿 人 民 币 融 资 $
+O E E E E E O O O O O O O O O O O O O O O O
+^ 投 资 方 为 君 联 资 本 、 d c m $
+O O O O O O O O O O E E E O
+^ u d e s k 前 端 用 e m b e r $
+O E E E E E O O O E E E E E O
+^ j s $
+O E E O
+^ 后 台 用 j a v a 、 r u b y 、 g o $
+O O O O E E E E O E E E E O E E O
+^ 如 t e n s o r f l o w 、 m x n e t 、 c a f f e 、 k e r a s 等 $
+O O E E E E E E E E E E O E E E E E O E E E E E O E E E E E O O
+^ 熟 悉 l i n u x 开 发 环 境 $
+O O O E E E E E O O O O O
+^ 熟 练 掌 握 c / c + + 、 p y t h o n 等 开 发 语 言 $
+O O O O O E O E E E O E E E E E E O O O O O O
+^ 有 k a g g l e 比 赛 获 奖 者 优 先 $
+O O E E E E E E O O O O O O O O
+^ 2 、 熟 悉 p y t h o n 等 一 门 或 多 门 编 程 语 言 $
+O O O O O E E E E E E O O O O O O O O O O O
+^ 有 c + + / p y t h o n / j a v a 等 相 关 语 言 研 究 或 底 层 开 发 经 验 $
+O O E E E O E E E E E E O E E E E O O O O O O O O O O O O O O O
+^ 如 h a d o o p 、 s t o r m 、 s p a r k $
+O O E E E E E E O E E E E E O E E E E E O
+^ 熟 练 使 用 j a v a / r / p y t h o n 等 开 发 语 言 $
+O O O O O E E E E O O O E E E E E E O O O O O O
+^ 熟 练 使 用 h a d o o p $
+O O O O O E E E E E E O
+^ h i v e $
+O E E E E O
+^ s p a r k 等 工 具 $
+O E E E E E O O O O
+^ 熟 悉 t e n s o r f l o w $
+O O O E E E E E E E E E E O
+^ c a f f e 等 开 发 平 台 进 行 深 度 学 习 开 发 $
+O E E E E E O O O O O O O O O O O O O O
+^ 信 息 检 索 等 c $
+O O O O O O E O
+^ 目 标 检 测 和 跟 踪 、 o c r 、 图 像 分 割 、 人 脸 检 测 识 别 等 ） 【 关 于 福 利 】 1 $
+O O O O O O O O O E E E O O O O O O O O O O O O O O O O O O O O O O
+^ v e r y c o m p e t i t i v e p a y 2 $
+O O O O O E E E O O O O O O O O O O O O O
+^ 月 薪 = b a s e x 经 验 + 职 位 $
+O O O O E E E E E O O O O O O
+^ 标 准 配 置 ： m a c + a i r 1 1 $
+O O O O O O O O E O O O O O O O
+^ # 坐 标 # 望 京 绿 地 中 心 中 国 锦 地 铁 1 5 号 线 （ 望 京 东 ） c 口 出 步 行 5 分 即 到 $
+O O O O O O O O O O O O O O O O O O O O O O O O O E O O O O O O O O O
+^ 有 h a d o o p 平 台 实 际 操 作 经 验 $
+O O E E E E E E O O O O O O O O O
+^ 扎 实 的 j a v a 或 p y t h o n 编 程 基 础 $
+O O O O E E E E O E E E E E E O O O O O
+^ 顶 级 大 数 据 公 司 岗 位 职 责 ： 1 、 基 于 数 美 海 量 数 据 进 行 数 据 建 模 与 分 析 2 、 对 海 量 数 据 进 行 f e a t u r e s e l e c t i o n $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E O O O O O
+^ c o m b i n a t i o n 等 f e a t u r e e n g i n e e r i n g 工 作 3 、 针 对 海 量 用 户 行 为 数 据 $
+O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 有 超 过 2 年 以 上 c + + 或 p y t h o n 开 发 经 验 4 、 有 金 融 模 型 、 广 告 算 法 、 推 荐 算 法 等 相 关 领 域 研 究 或 实 践 经 验 者 优 先 $
+O O O O O O O O E E E O E E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ c o m 数 美 由 百 度 、 小 米 、 3 6 0 等 顶 尖 互 联 网 公 司 联 合 投 资 的 大 数 据 公 司 $
+O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 创 始 团 队 均 来 自 百 度 、 3 6 0 、 小 米 、 宜 信 、 f i c o 等 知 名 互 联 网 公 司 $
+O O O O O O O O O O O O O O O O O O O O O O O E O O O O O O O O O O
+^ c o m $
+O E E E O
+^ 熟 悉 l i n u x 环 境 $
+O O O E E E E E O O O
+^ 精 通 c + + 、 p y t h o n 等 程 序 设 计 语 言 $
+O O O E E E O E E E E E E O O O O O O O O
+^ 包 括 l r 、 s v m 、 g b d t 、 d n n 、 l s t m 等 $
+O O O E E O E E E O E E E E O E E E O E E E E O O
+^ j a v a / c + + / p y t h o n / m a t l a b / r 等 $
+O E E E E O E E E O E E E E E E O E E E E E E O O O O
+^ 熟 悉 t e n s o r f l o w 等 框 架 $
+O O O E E E E E E E E E E O O O O
+^ 有 较 大 型 项 目 的 开 发 经 验 能 够 熟 练 使 用 o p e n c v $
+O O O O O O O O O O O O O O O O O O E E E E E E O
+^ 精 通 c / c + + $
+O O O E O E E E O
+^ p y t h o n $
+O E E E E E E O
+^ g o l a n g 等 $
+O E E E E E E O O
+^ 熟 悉 l i n u x 开 发 环 境 善 于 解 决 和 分 析 问 题 $
+O O O E E E E E O O O O O O O O O O O O O O
+^ 有 r n n $
+O O E E E O
+^ c n n 模 型 训 练 经 验 $
+O E E E O O O O O O O
+^ 熟 悉 常 用 的 深 度 学 习 软 件 （ 如 c a f f e $
+O O O O O O O O O O O O O O E E E E E O
+^ t h e a n o 等 ） 在 相 关 方 向 知 名 国 际 会 议 发 表 过 论 文 （ 如 c v p r $
+O E E E E E E O O O O O O O O O O O O O O O O O O O O E E E E O
+^ i c c v $
+O E E E E O
+^ e c c v $
+O E E E E O
+^ n i p s $
+O E E E E O
+^ i c l r $
+O E E E E O
+^ 熟 练 使 用 c a f f e $
+O O O O O E E E E E O
+^ t e n s o r f l o w 或 其 他 常 用 深 度 学 习 工 具 $
+O E E E E E E E E E E O O O O O O O O O O O O
+^ 如 q l e a r n i n g $
+O O O O O E E O O O O O
+^ a c t o r c r i t i c 等 熟 悉 计 算 机 视 觉 和 图 像 处 理 的 常 用 方 法 ( 物 体 检 测 、 跟 踪 、 分 割 、 分 类 识 别 等 ) $
+O O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 精 通 c + + 语 言 以 及 至 少 另 一 种 常 见 编 程 语 言 对 计 算 机 架 构 有 深 刻 的 认 识 $
+O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 优 先 考 虑 发 表 过 c v p r / e c c v / i c c v / n i p s / i c m l 等 视 觉 和 a i 领 域 会 议 文 章 熟 悉 图 像 识 别 领 域 的 常 见 工 具 如 o p e n c v 等 熟 悉 高 性 能 运 算 加 速 工 具 如 n e o n 以 及 g p g p u 技 术 如 g l e s $
+O O O O O O O O E E E E O E E E E O E E E E O E E E E O E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E O O O O O O O O O O O O O E E E E O O E E E E E O O O E E E E O
+^ c u d a 和 o p e n c l 等 $
+O E E E E O E E E E E E O O
+^ 有 b a t 公 司 经 验 优 先 考 虑 $
+O O E E E O O O O O O O O O
+^ 有 n l p 经 验 更 佳 $
+O O E E E O O O O O
+^ + 有 t e n s o r f l o w / t h e a n o / k e r a s / c a f f e / t o r c h 等 深 度 学 习 工 具 经 验 $
+O O O E E E E E E E E E E O E E E E E E O E E E E E O E E E E E O E E E E E O O O O O O O O O O
+^ + 良 好 的 开 发 能 力 （ s q l / j a v a / p y t h o n / r / s c a l a 等 ） $
+O O O O O O O O O O E E E O E E E E O E E E E E E O O O E E E E E O O O
+^ 了 解 大 数 据 开 发 平 台 （ h a d o o p / h i v e / s p a r k / s t o r m ) $
+O O O O O O O O O O O E E E E E E O E E E E O E E E E E O E E E E E O O
+^ 公 司 简 介 ： u d e s k 是 国 内 领 先 的 企 业 级 智 能 客 服 平 台 $
+O O O O O O E E E E E O O O O O O O O O O O O O O O O
+^ 为 企 业 提 供 了 一 套 集 智 能 问 答 、 即 时 通 讯 、 v o i p 、 工 单 、 知 识 库 、 数 据 分 析 为 一 体 的 完 整 的 客 服 系 统 解 决 方 案 $
+O O O O O O O O O O O O O O O O O O O O E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ u d e s k 知 名 客 户 有 海 底 捞 、 星 巴 克 、 凯 撒 旅 游 、 中 青 旅 耀 悦 、 金 山 w p s 、 每 日 优 鲜 、 5 8 转 转 、 宝 洁 等 $
+O E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O E E E O O O O O O O O O O O O O O O
+^ u d e s k 去 年 6 月 完 成 b 轮 1 亿 人 民 币 融 资 $
+O E E E E E O O O O O O O O O O O O O O O O
+^ 投 资 方 为 君 联 资 本 、 d c m $
+O O O O O O O O O O E E E O
+^ 熟 练 掌 握 t e n s o r f l o w $
+O O O O O E E E E E E E E E E O
+^ p y t o r c h $
+O E E E E E E E O
+^ c a f f e $
+O E E E E E O
+^ 例 如 ： l r / g m m / s v m / c r f / m a x e n t / h m m / n n 等 $
+O O O O E E O E E E O E E E O E E E O E E E E E E O E E E O O O O O
+^ 熟 悉 l i n u x 开 发 环 境 $
+O O O E E E E E O O O O O
+^ 如 c + + 、 p y t h o n 等 $
+O O E E E O E E E E E E O O
+^ 有 n l p 或 图 像 领 域 的 工 作 或 研 究 经 验 $
+O O E E E O O O O O O O O O O O O O O
+^ 案 例 包 括 模 拟 数 据 （ 方 便 略 去 熟 悉 数 据 和 数 据 清 洗 的 步 骤 ） 、 机 器 学 习 的 经 典 案 例 （ 如 m n i s t 手 写 数 字 图 像 库 ） 和 k a g g l e 竞 赛 热 门 数 据 集 （ 如 泰 坦 尼 克 号 存 亡 数 据 等 ） $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E O O O O O O O O O O O O O O O O O O O O O
+^ 并 能 够 进 行 算 法 优 化 熟 悉 h a d o o p $
+O O O O O O O O O O O O E E E E E E O
+^ m a p r e d u c e 等 分 布 式 并 行 处 理 技 术 了 解 现 有 深 度 学 习 / 机 器 学 习 开 源 框 架 $
+O E E E E E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 如 t e n s o r f l o w 、 c a f f e 等 具 有 较 强 的 编 程 实 现 能 力 和 快 速 学 习 能 力 $
+O O E E E E E E E E E E O E E E E E O O O O O O O O O O O O O O O O O O O O
+^ 良 好 的 沟 通 能 力 加 分 项 ： 有 d e e p l e a r n i n g 的 经 验 $
+O O O O O O O O O O O O O E E E E E E E E E E E E O O O O
+^ 具 备 g p u 编 程 经 验 者 $
+O O O E E E O O O O O O
+^ 有 l i n u x 下 开 发 经 验 的 $
+O O E E E E E O O O O O O O
+^ 2 、 熟 练 掌 握 c / c + + $
+O O O O O O O E O E E E O
+^ j a v a $
+O E E E E O
+^ p y t h o n 等 至 少 一 种 语 言 $
+O E E E E E E O O O O O O O O
+^ 4 、 熟 悉 常 见 的 机 器 学 习 & a m p ; a m p ; 数 据 挖 掘 算 法 $
+O O O O O O O O O O O O O E E E O O O O O O O O O O O O
+^ 了 解 并 会 使 用 s q l 、 s a s 、 p y t h o n 和 r 者 优 先 $
+O O O O O O O E E E O E E E O E E E E E E O O O O O O
+^ 包 括 但 不 限 于 p y t h o n $
+O O O O O O O E E E E E E O
+^ c / c + + 、 c # 、 j a v a 、 r 等 $
+O E O E E E O O O O E E E E O O O O
+^ 对 常 见 的 机 器 学 习 或 深 度 学 习 架 构 （ 例 如 t e n s o r f l o w $
+O O O O O O O O O O O O O O O O O O O E E E E E E E E E E O
+^ c a f f e $
+O E E E E E O
+^ t o r c h 或 t h e a n o 等 ） 源 码 有 研 究 $
+O E E E E E O E E E E E E O O O O O O O O
+^ 在 计 算 机 科 学 顶 级 会 议 和 期 刊 如 n i p s 、 i c m l 、 c v p r 、 i c c v 、 a a a i 、 k d d 、 a c l 、 p a m i 、 i j c v 等 发 表 过 论 文 者 优 先 考 虑 $
+O O O O O O O O O O O O O O O E E E E O E E E E O E E E E O E E E E O E E E E O O O O O E E E O O O O O O O O O O O O O O O O O O O O O O
+^ 包 括 l r 、 s v m 、 g b d t 、 d n n 、 l s t m 等 $
+O O O E E O E E E O E E E E O E E E O E E E E O O
+^ j a v a / c + + / p y t h o n / m a t l a b / r 等 $
+O E E E E O E E E O E E E E E E O E E E E E E O O O O
+^ 加 分 项 ： 1 、 熟 悉 主 流 大 数 据 处 理 技 术 ( h a d o o p / s p a r k 等 ) 优 先 $
+O O O O O O O O O O O O O O O O O O O E E E E E E O E E E E E O O O O O
+^ 经 过 系 统 的 机 器 学 习 或 数 据 挖 掘 训 练 3 、 熟 悉 p y t h o n 语 言 $
+O O O O O O O O O O O O O O O O O O O O O E E E E E E O O O
+^ 至 少 熟 悉 一 种 深 度 学 习 训 练 工 具 （ t h e a n o / t e n s o r f l o w / p y t o r c h / k e r a s / m x n e t / c n t k ） 4 、 对 w o r d 2 v e c $
+O O O O O O O O O O O O O O O O E E E E E E O E E E E E E E E E E O E E E E E E E O E E E E E O E E E E E O E E E E O O O O E E E E O E E E O
+^ c n n $
+O E E E O
+^ l s t m $
+O E E E E O
+^ g r u 等 方 法 的 原 理 有 深 入 了 解 $
+O E E E O O O O O O O O O O O O
+^ 有 针 对 n l p 领 域 的 c n n 或 r n n 的 调 参 和 设 计 经 历 5 、 熟 悉 d r o p o u t $
+O O O O E E E O O O E E E O E E E O O O O O O O O O O O O O O O O O O O O
+^ b a t c h n o r m a l i z a t i o n $
+O E E E E O O O O O O O O O O O O O O O
+^ 熟 悉 n l p 领 域 前 沿 论 文 $
+O O O E E E O O O O O O O
+^ 但 又 注 重 细 节 & a m p ; a m p ; 有 耐 性 $
+O O O O O O O O E E E O O O O O O O O O
+^ 【 l e a d e r 说 】 我 是 图 灵 机 器 人 的 创 始 人 & a m p ; a m p ; c e o 俞 志 晨 $
+O O O O O O O O O O O O O O O O O O O O O O E E E O O O O O E O O O O O O
+^ 包 括 ： 1 、 d e e p l e a r n i n g / r e i n f o r c e m e n t l e a r n i n g $
+O O O O O O E E E E E E E E E E E E O E E E E E E E E E E E E E E E E E E E E E O
+^ 2 、 m o v i n g o b j e c t d e t e c t i o n a n d t r a c k i n g $
+O O O O O E E O E E O O O E O O O O O O O O O O O O O O O O O O O O O O
+^ 3 、 a c t i o n / p o s t u r e e s t i m a t i o n a n d c o n t r o l $
+O O O O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 4 、 3 d r e c o n s t r u c t i o n $
+O O O O O O O E O O O O O O O O O O O O
+^ 2 、 熟 悉 t e n s o r f l o w 或 类 似 的 机 器 学 习 框 架 $
+O O O O O E E E E E E E E E E O O O O O O O O O O O
+^ 3 、 熟 悉 c n n 和 r n n 至 少 其 中 之 一 $
+O O O O O E E E O E E E O O O O O O O
+^ 4 、 了 解 r e i n f o r c e m e n t l e a r n i n g 的 原 理 和 常 用 框 架 $
+O O O O O E E E E E E E E E E E E E E E E E E E E E O O O O O O O O O
+^ 优 先 项 ： 1 、 在 机 器 学 习 领 域 a 类 会 议 或 期 刊 上 发 表 过 d e e p l e a r n i n g 和 r e i n f o r c e m e n t l e a r n i n g 相 关 领 域 论 文 $
+O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E E E E E E E O E E E E E E E E E E E E E E E E E E E E E O O O O O O O
+^ 2 、 熟 悉 d e e p r e i n f o r c e m e n t l e a r n i n g 的 方 法 框 架 $
+O O O O O O O O O E E E E E E E E E E E E E E E E E E E E E O O O O O O
+^ 3 、 参 加 过 a c m w o r l d f i n a l 并 获 得 前 2 0 名 $
+O O O O O O E E E O O O O O O O O O O O O O O O O O O
+^ 在 一 个 或 多 个 领 域 有 相 关 项 目 经 验 ： 数 据 挖 掘 、 自 然 语 言 处 理 、 图 像 处 理 、 分 布 式 计 算 、 g p u 并 行 计 算 等 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E O O O O O O
+^ 熟 练 掌 握 c / c + + 、 p y t h o n / p e r l / s h e l l 等 语 言 编 程 、 及 数 据 结 构 基 础 算 法 $
+O O O O O E O E E E O E E E E E E O E E E E O E E E E E O O O O O O O O O O O O O O O O
+^ 案 例 包 括 模 拟 数 据 （ 方 便 略 去 熟 悉 数 据 和 数 据 清 洗 的 步 骤 ） 、 机 器 学 习 的 经 典 案 例 （ 如 m n i s t 手 写 数 字 图 像 库 ） 和 k a g g l e 竞 赛 热 门 数 据 集 （ 如 泰 坦 尼 克 号 存 亡 数 据 等 ） $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E O O O O O O O O O O O O O O O O O O O O O
+^ 熟 练 运 用 s p a r k 以 及 如 t e n s o r f l o w 的 d l 框 架 有 垃 圾 文 本 识 别 $
+O O O O O E E E E E O O O E E E E E E E E E E O E E O O O O O O O O O O
+^ 图 片 鉴 黄 工 作 经 验 的 优 先 有 模 型 压 缩 与 加 速 工 作 经 验 的 优 先 熟 悉 社 群 发 现 或 图 卷 积 或 度 量 学 习 或 哈 希 学 习 的 优 先 熟 悉 前 端 特 别 是 手 机 端 环 境 的 优 先 有 s t o r m $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E O
+^ s p a r k s t r e a m i n g 平 台 开 发 经 验 者 优 先 热 爱 学 习 $
+O E E E E E O O O O O O O O O O O O O O O O O O O O O O O
+^ 熟 悉 l i n u x 开 发 环 境 $
+O O O E E E E E O O O O O
+^ 熟 练 使 用 p y t h o n $
+O O O O O E E E E E E O
+^ s q l $
+O E E E O
+^ 如 m y s q l $
+O O E E E E E O
+^ m o n g o d b $
+O E E E E E E E O
+^ 如 回 归 方 法 、 决 策 树 、 s v m 、 e m 、 b o o s t i n g 等 $
+O O O O O O O O O O O E E E O O O O E E E E E E E E O O
+^ 包 括 但 不 限 于 ： c + + 、 p y t h o n 、 s c a l a 、 g o 、 j a v a 、 m a t l a b $
+O O O O O O O O E E E O E E E E E E O E E E E E O E E O E E E E O E E E E E E O
+^ 包 括 l r 、 s v m 、 g b d t 、 r e i n f o r c e m e n t l e a r n i n g 、 d e e p l e a r n i n g $
+O O O E E O E E E O E E E E O E E E E E E E E E E E E E E E E E E E E E O E E E E E E E E E E E E O
+^ 8 、 在 c v p r 、 e c c v 、 n i p s 等 计 算 机 视 觉 顶 级 会 议 上 发 表 过 论 文 者 优 先 考 虑 $
+O O O O E E E E O E E E E O E E E E O O O O O O O O O O O O O O O O O O O O O O
+^ g b d t $
+O E E E E O
+^ 3 ） 熟 练 掌 握 p y t h o n 编 程 语 言 $
+O O O O O O O E E E E E E O O O O O
+^ 熟 悉 j a v a 者 优 先 录 用 $
+O O O E E E E O O O O O O
+^ 4 ） 熟 悉 h i v e 、 h b a s e 、 s t o r m 、 s p a r k 等 开 源 平 台 $
+O O O O O E E E E O E E E E E O E E E E E O E E E E E O O O O O O
+^ c c x c r e d i t $
+O E O O O O O O O O O
+^ c o m $
+O E E E O
+^ c n / ） 中 诚 信 征 信 有 限 公 司 （ 简 称 “ 中 诚 信 征 信 ” ） 隶 属 于 中 诚 信 集 团 $
+O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 熟 练 使 用 c a f f e $
+O O O O O E E E E E O
+^ t h e a n o 或 其 他 常 用 深 度 学 习 工 具 $
+O E E E E E E O O O O O O O O O O O O
+^ 精 通 c + + $
+O O O E E E O
+^ p y t h o n 或 至 少 一 种 常 见 编 程 语 言 5 $
+O E E E E E E O O O O O O O O O O O O O
+^ t a l k i n g d a t a 已 经 形 成 了 一 套 以 “ 智 能 数 据 平 台 ( s m a r t d p ) ” 为 主 的 完 整 数 据 应 用 体 系 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E O O O O O O O O O O O O O O O O O
+^ 熟 练 掌 握 j a v a / p y t h o n / s c a l a / c / c + + 一 种 编 程 语 言 或 一 种 数 学 工 具 $
+O O O O O E E E E O E E E E E E O E E E E E O O O E E E O O O O O O O O O O O O O O
+^ 了 解 d e l l s t a t i s t i c a $
+O O O O O O O O O O O O O O O E O O
+^ s a s 等 优 先 $
+O E E E O O O O
+^ 至 少 熟 练 掌 握 一 种 编 译 型 语 言 （ j a v a / c / c + + ） $
+O O O O O O O O O O O O O O O E E E E O E O E E E O O
+^ 顶 级 大 数 据 公 司 岗 位 职 责 ： 1 、 基 于 数 美 海 量 数 据 进 行 数 据 建 模 与 分 析 2 、 对 海 量 数 据 进 行 f e a t u r e s e l e c t i o n $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E O O O O O
+^ c o m b i n a t i o n 等 f e a t u r e e n g i n e e r i n g 工 作 3 、 针 对 海 量 用 户 行 为 数 据 $
+O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 有 超 过 2 年 以 上 c + + 或 p y t h o n 开 发 经 验 4 、 有 金 融 模 型 、 广 告 算 法 、 推 荐 算 法 等 相 关 领 域 研 究 或 实 践 经 验 者 优 先 $
+O O O O O O O O E E E O E E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ c o m 【 关 于 数 美 】 数 美 （ 全 称 北 京 数 美 时 代 科 技 有 限 公 司 ） 成 立 于 2 0 1 5 年 6 月 $
+O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 3 年 以 上 以 p y t h o n / p h p / j a v a 为 主 的 互 联 网 产 品 软 件 的 开 发 工 作 经 验 $
+O O O O O O E E E E E E O E E E O E E E E O O O O O O O O O O O O O O O O O O
+^ 具 备 创 新 & a m p ; a m p ; 开 拓 思 维 、 具 备 团 队 协 作 精 神 5 $
+O O O O O O E E E O O O O O O O O O O O O O O O O O O O O
+^ 优 秀 开 发 能 力 （ s q l / j a v a / p y t h o n / r / s c a l a 等 ） $
+O O O O O O O O E E E O E E E E O E E E E E E O O O E E E E E O O O
+^ 熟 悉 大 数 据 开 发 平 台 （ h a d o o p / h i v e / s p a r k / s t o r m ) 5 $
+O O O O O O O O O O O E E E E E E O E E E E O E E E E E O E E E E E O O O
+^ 计 算 机 、 数 学 、 统 计 学 等 相 关 专 业 — — 熟 悉 p y t h o n 及 相 关 机 器 学 习 工 具 — — 有 机 器 学 习 相 关 项 目 经 验 — — 深 度 学 习 领 域 有 相 关 经 验 — — 熟 悉 h a d o o p 、 s p a r k 等 分 布 式 平 台 — — 团 队 协 作 能 力 强 、 态 度 端 正 、 有 耐 心 、 抗 压 能 力 强 $
+O O O O O O O O O O O O O O O O O O O O E E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E O E E E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 8 、 在 c v p r 、 e c c v 、 n i p s 等 计 算 机 视 觉 顶 级 会 议 上 发 表 过 论 文 者 优 先 考 虑 $
+O O O O E E E E O E E E E O E E E E O O O O O O O O O O O O O O O O O O O O O O
+^ 能 够 详 细 描 述 c n n 、 r n n $
+O O O O O O O E E E O E E E O
+^ l s t m $
+O E E E E O
+^ g r u $
+O E E E O
+^ 如 t e n s o r f l o w $
+O O E E E E E E E E E E O
+^ t h e a n o $
+O E E E E E E O
+^ t o r c h 等 4 $
+O E E E E E O O O
+^ 如 j a v a $
+O O E E E E O
+^ p y t h o n $
+O E E E E E E O
+^ c + + 等 5 $
+O E E E O O O
+^ 熟 悉 g b d t 、 l r 、 s v m 等 机 器 学 习 相 关 算 法 6 $
+O O O E E E E O E E O E E E O O O O O O O O O O O
+^ 熟 悉 h a d o o p 、 s p a r k 等 大 数 据 生 态 技 术 能 在 l i n u x 环 境 下 开 发 $
+O O O E E E E E E O E E E E E O O O O O O O O O O E E E E E O O O O O O
+^ 具 有 手 机 端 s l a m / 三 维 重 建 研 究 经 历 者 优 先 " $
+O O O O O O E E E E O O O O O O O O O O O O O O
+^ c o d i n g 基 本 要 求 1 $
+O E O O O O O O O O O O O
+^ 会 p y t h o n $
+O O E E E E E E O
+^ 有 s k l e a r n 使 用 经 验 更 佳 $
+O O E E E E E E E O O O O O O O
+^ 会 j a v a 更 佳 3 $
+O O E E E E O O O O
+^ 精 通 c + + 或 j a v a 编 程 语 言 $
+O O O E E E O E E E E O O O O O
+^ 熟 悉 l i n u x 平 台 、 p y t h o n / s h e l l 编 程 $
+O O O E E E E E O O O E E E E E E O E E E E E O O O
+^ 有 大 数 据 、 机 器 学 习 、 w e b 信 息 检 索 、 自 然 语 言 处 理 、 文 本 分 类 相 关 项 目 核 心 技 术 人 员 或 技 术 负 责 人 经 历 $
+O O O O O O O O O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 熟 悉 c / c + + / j a v a / p y t h o n 至 少 一 门 编 程 语 言 $
+O O O E O E E E O E E E E O E E E E E E O O O O O O O O O
+^ 4 ） 熟 练 掌 握 t e n s o r f l o w / c a f f e / t h e a n o 等 一 个 或 多 个 深 度 学 习 平 台 的 使 用 $
+O O O O O O O E E E E E E E E E E O E E E E E O E E E E E E O O O O O O O O O O O O O O O O
+^ 有 较 大 型 项 目 的 开 发 经 验 能 够 熟 练 使 用 o p e n c v $
+O O O O O O O O O O O O O O O O O O E E E E E E O
+^ 精 通 c / c + + $
+O O O E O E E E O
+^ p y t h o n $
+O E E E E E E O
+^ g o l a n g 等 $
+O E E E E E E O O
+^ 熟 悉 l i n u x 开 发 环 境 善 于 解 决 和 分 析 问 题 $
+O O O E E E E E O O O O O O O O O O O O O O
+^ 有 r n n $
+O O E E E O
+^ c n n 模 型 训 练 经 验 $
+O E E E O O O O O O O
+^ 熟 悉 常 用 的 深 度 学 习 软 件 （ 如 c a f f e $
+O O O O O O O O O O O O O O E E E E E O
+^ t h e a n o 等 ） 在 相 关 方 向 知 名 国 际 会 议 发 表 过 论 文 （ 如 c v p r $
+O E E E E E E O O O O O O O O O O O O O O O O O O O O E E E E O
+^ i c c v $
+O E E E E O
+^ e c c v $
+O E E E E O
+^ n i p s $
+O E E E E O
+^ i c l r $
+O E E E E O
+^ 负 责 c d n 流 量 调 度 的 相 关 优 化 、 算 法 改 进 及 策 略 研 发 $
+O O O E O O O O O O O O O O O O O O O O O O O O O O
+^ 熟 悉 c + + / j a v a / p y t h o n 中 至 少 一 种 语 言 $
+O O O E E E O E E E E O E E E E E E O O O O O O O O
+^ 带 动 和 引 导 一 个 技 术 方 向 的 规 划 、 研 发 熟 悉 c / c + + 语 言 编 程 $
+O O O O O O O O O O O O O O O O O O O O E O E E E O O O O O
+^ 并 具 备 多 年 的 实 际 工 作 经 验 具 备 大 规 模 推 荐 系 统 的 研 发 经 验 ( 推 荐 算 法 设 计 和 实 现 / 推 荐 系 统 评 估 方 法 研 究 ) 具 备 自 然 语 言 处 理 、 信 息 过 滤 、 主 题 提 取 、 分 类 聚 类 、 个 性 化 用 户 建 模 、 文 本 挖 掘 等 相 关 领 域 知 识 具 备 机 器 学 习 理 论 、 算 法 的 研 究 和 实 践 经 验 具 备 分 布 式 相 关 项 目 研 发 经 验 （ 如 分 布 式 存 储 / 分 布 式 计 算 / 高 性 能 并 行 计 算 / 分 布 式 c a c h e 等 ） 具 备 搜 索 引 擎 、 广 告 投 放 、 反 作 弊 相 关 技 术 的 知 识 和 经 验 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 包 括 ： 1 、 d e e p l e a r n i n g / r e i n f o r c e m e n t l e a r n i n g $
+O O O O O O E E E E E E E E E E E E O E E E E E E E E E E E E E E E E E E E E E O
+^ 2 、 m o v i n g o b j e c t d e t e c t i o n a n d t r a c k i n g $
+O O O O O E E O E E O O O E O O O O O O O O O O O O O O O O O O O O O O
+^ 3 、 a c t i o n / p o s t u r e e s t i m a t i o n a n d c o n t r o l $
+O O O O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 4 、 3 d r e c o n s t r u c t i o n $
+O O O O O O O E O O O O O O O O O O O O
+^ 2 、 c + + / p y t h o n 编 程 扎 实 $
+O O O E E E O E E E E E E O O O O O
+^ 3 、 熟 悉 t e n s o r f l o w 或 类 似 的 机 器 学 习 框 架 $
+O O O O O E E E E E E E E E E O O O O O O O O O O O
+^ 4 、 熟 悉 c n n 和 r n n 至 少 其 中 之 一 $
+O O O O O E E E O E E E O O O O O O O
+^ 5 、 了 解 r e i n f o r c e m e n t l e a r n i n g 的 原 理 和 常 用 框 架 $
+O O O O O E E E E E E E E E E E E E E E E E E E E E O O O O O O O O O
+^ 优 先 项 （ 非 强 制 项 ） ： 1 、 在 机 器 学 习 领 域 a 类 会 议 或 期 刊 上 发 表 过 d e e p l e a r n i n g 和 r e i n f o r c e m e n t l e a r n i n g 相 关 领 域 论 文 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E E E E E E E E E E O E E E E E E E E E E E E E E E E E E E E E O O O O O O O
+^ 2 、 熟 悉 d e e p r e i n f o r c e m e n t l e a r n i n g 的 方 法 框 架 $
+O O O O O O O O O E E E E E E E E E E E E E E E E E E E E E O O O O O O
+^ 3 、 参 加 过 a c m w o r l d f i n a l $
+O O O O O O E E E O O O O O O O O O O O
+^ 精 通 j a v a 语 言 $
+O O O E E E E O O O
+^ 比 如 ： e l k 、 k a f k a 、 s t o r m 、 s p a r k 等 大 数 据 处 理 框 架 $
+O O O O O O O O E E E E E O E E E E E O E E E E E O O O O O O O O O
+^ 擅 长 使 用 机 器 学 习 框 架 t e n s o r f l o w $
+O O O O O O O O O O O E E E E E E E E E E O
+^ s v m 等 $
+O E E E O O
+^ 熟 悉 l r / s v m / b o o s t i n g 等 方 法 $
+O O O E E O E E E O E E E E E E E E O O O O
+^ 3 ) 能 够 熟 练 使 用 s c i k i t l e a r n 、 p a n d a s 、 n u m p y 、 t e n s o r f l o w 等 框 架 $
+O O O O O O O O O E E E E E E E E E E E O E E E E E E O E E E E E O E E E E E E E E E E O O O O
+^ 能 使 用 p y t h o n $
+O O O O E E E E E E O
+^ c / c + + 实 现 相 关 算 法 $
+O E O E E E O O O O O O O
+^ 能 使 用 q l e a r n i n g 、 s a r s a 等 算 法 解 决 实 际 问 题 $
+O O O O O O O E E O O O O O O O O O O O O O O O O O O O O
+^ g b d t $
+O E E E E O
+^ 3 ） 熟 练 掌 握 p y t h o n 编 程 语 言 $
+O O O O O O O E E E E E E O O O O O
+^ 熟 悉 j a v a 者 优 先 录 用 $
+O O O E E E E O O O O O O
+^ 4 ） 熟 悉 h i v e 、 h b a s e 、 s t o r m 、 s p a r k 等 开 源 平 台 $
+O O O O O E E E E O E E E E E O E E E E E O E E E E E O O O O O O
+^ c c x c r e d i t $
+O E O O O O O O O O O
+^ c o m $
+O E E E O
+^ c n / ） 中 诚 信 征 信 有 限 公 司 （ 简 称 “ 中 诚 信 征 信 ” ） 隶 属 于 中 诚 信 集 团 $
+O E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 职 位 描 述 ： 职 位 描 述 执 御 的 大 数 据 团 队 旨 在 为 其 旗 下 的 j o l l y c h i c a p p （ 中 东 地 区 排 名 第 一 的 电 商 平 台 ） 构 建 最 强 的 数 据 大 脑 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O
+^ 销 售 预 测 c $
+O O O O O E O
+^ s v m $
+O E E E O
+^ 包 括 p y t h o n / j a v a / c / c + + 等 $
+O O O E E E E E E O E E E E O E O E E E O O
+^ 有 过 深 度 学 习 领 域 （ 包 括 但 不 限 于 c n n / r n n / l s t m ） 的 学 习 及 实 战 经 验 $
+O O O O O O O O O O O O O O O O E E E O E E E O E E E E O O O O O O O O O O
+^ 熟 悉 h a d o o p / s p a r k 等 大 数 据 架 构 $
+O O O E E E E E E O E E E E E O O O O O O O
+^ 了 解 s c a l a 编 程 $
+O O O E E E E E O O O
+^ 包 括 但 不 限 于 y a r n $
+O O O O O O O O E E O O
+^ m a p r e d u c e $
+O E E E E E E E E E O
+^ s p a r k $
+O E E E E E O
+^ s t o r m $
+O E E E E E O
+^ h i v e $
+O E E E E O
+^ m a p r e d u c e $
+O E E E E E E E E E O
+^ h b a s e $
+O E E E E E O
+^ g a n g l i a $
+O E E E O O O O O
+^ h c a t a l o g 者 优 先 $
+O O E O O O O O O O O O O
+^ 技 术 团 队 有 g i t h u b s t a r s 数 过 6 0 0 0 的 开 发 者 $
+O O O O O O E E E E E E O O E E O O O O O O O O O O O O
+^ 具 有 手 机 端 s l a m / 三 维 重 建 研 究 经 历 者 优 先 $
+O O O O O O E E E E O O O O O O O O O O O O O
+^ 并 利 用 n l p 、 机 器 学 习 等 方 法 解 决 如 命 名 实 体 识 别 、 语 义 分 析 、 匹 配 等 实 际 问 题 要 求 计 算 机 或 相 关 专 业 硕 士 及 以 上 学 历 丰 富 的 中 文 n l p / n l u 经 验 $
+O O O O E E E O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E E E O O O
+^ 主 导 过 n l p 项 目 （ 或 参 与 过 大 型 n l p 项 目 ） 熟 练 使 用 n l p / m l 相 关 的 开 源 工 具 和 开 发 框 架 $
+O O O O E E E O O O O O O O O O O O O O O O O O O O O O O O E E O O O O O O O O O O O O O
+^ 如 n l t k 、 s t a n f o r d n l p 、 t e n s o r f l o w 、 t h e a n o 、 c a f f e 等 主 人 翁 意 识 $
+O O E E E E O O O O O O O O O E E E O E E E E E E E E E E O E E E E E E O E E E E E O O O O O O O
+^ 能 够 独 立 从 0 搭 建 高 质 量 的 n l p 项 目 $
+O O O O O O O O O O O O O E E E O O O
+^ 包 括 t e n s o r f l o w 、 c a f f e 等 $
+O O O E E E E E E E E E E O E E E E E O O
+^ 4 、 熟 悉 深 度 学 习 的 可 视 化 工 具 （ 如 t e n s o r b o a r d ） 者 优 先 $
+O O O O O O O O O O O O O O O O O O O O O O O O O E E O O O O O O
+^ 2 、 掌 握 p y t h o n 、 r 、 s h e l l $
+O O O O O E E E E E E O O O E E E E E O
+^ j a v a 编 程 语 言 一 种 以 上 $
+O E E E E O O O O O O O O O
+^ 熟 悉 l i n u x 开 发 平 台 $
+O O O E E E E E O O O O O
+^ 5 、 有 h a d o o p $
+O O O O E E E E E E O
+^ s p a r k $
+O E E E E E O
+^ k a f k a 大 数 据 开 发 经 验 者 优 先 $
+O E E E E E O O O O O O O O O O O
+^ 熟 悉 c a f f e / t e n s o r f l o w / p y t o r c h / k e r a s 等 深 度 学 习 框 架 者 优 先 $
+O O O E E E E E O E E E E E E E E E E O E E E E E E E O E E E E E O O O O O O O O O O O
+^ 参 加 a c m 竞 赛 并 取 得 名 次 者 优 先 $
+O O O E E E O O O O O O O O O O O
+^ 包 括 但 不 限 于 t e n s o r f l o w 、 p a d d l e p a d d l e 、 m a h o u t 、 s p a r k m l l i b 基 于 以 上 主 流 机 器 / 深 度 学 习 框 架 $
+O O O O O O O E E E E E E E E E E O E E E E E E E E E E E E O E E E E E E O E E E E E E E E E E O O O O O O O O O O O O O O O O
+^ ( ; ) 计 算 机 或 相 关 专 业 本 科 及 以 上 学 历 熟 悉 l i n u x / u n i x 平 台 上 的 主 流 编 程 语 言 $
+O O O O O O O O O O O O O O O O O O O O O E E E E E O E E E E O O O O O O O O O O O
+^ 例 如 p y t h o n 、 j a v a 等 善 于 学 习 新 的 知 识 $
+O O O E E E E E E O E E E E O O O O O O O O O O
+^ 熟 悉 l i n u x 编 程 环 境 $
+O O O E E E E E O O O O O
+^ 熟 练 掌 握 p y t h o n 与 c + + 开 发 $
+O O O O O E E E E E E O E E E O O O
