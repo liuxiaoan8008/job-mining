@@ -273,9 +273,9 @@ class BiCrfSequenceLabeling(Base):
         sentence_corre_cnt = 0
         sentence_total_cnt = len(labels)
 
-        err_dir = self.params[constants.PARAM_KEY_MODEL_ERR_DIR]
-        err_file = err_dir+'_new_one_entity_oeo2oso.txt'
-        err_file = open(err_file,'w')
+        # err_dir = self.params[constants.PARAM_KEY_MODEL_ERR_DIR]
+        # err_file = err_dir+'_new_one_entity_oeo2oso.txt'
+        # err_file = open(err_file,'w')
 
         # true_dir = self.params[constants.PARAM_KEY_MODEL_ERR_DIR]
         true_file = '/Users/liuxiaoan/Downloads/fund_raw_data_new/true_data_new.txt'
@@ -316,16 +316,16 @@ class BiCrfSequenceLabeling(Base):
                 true_file.write(" ".join(labels[data_index]) + '\n')
                 true_file.write(" ".join(self.predict([tokens[data_index]])[0]).strip() + '\n')
                 # err_file.write(err_entity[data_index] + '\n')
-            else:
-                if True:
-                    try:
-                        err_file.write(",".join(tokens[data_index])+ '\n')
-                        err_file.write(",".join(labels[data_index]) + '\n')
-                        err_file.write(",".join(self.predict([tokens[data_index]])[0]).strip().replace(' ',',') + '\n')
-                        err_file.write(err_entity[data_index]+'\n')
-                    except:
-                        continue
-        err_file.close()
+            # else:
+            #     if True:
+            #         try:
+            #             err_file.write(",".join(tokens[data_index])+ '\n')
+            #             err_file.write(",".join(labels[data_index]) + '\n')
+            #             err_file.write(",".join(self.predict([tokens[data_index]])[0]).strip().replace(' ',',') + '\n')
+            #             err_file.write(err_entity[data_index]+'\n')
+            #         except:
+            #             continue
+        # err_file.close()
         true_file.close()
 
 

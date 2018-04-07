@@ -7,8 +7,11 @@ import os
 from optparse import OptionParser
 from deeptext.models.sequence_labeling.biLSTM_crf_sequence_labeling import BiCrfSequenceLabeling
 
-
 def deep_ner(mode,model_dir,data_file,valid_data_file=None):
+
+    FORMAT = '[%(asctime)-15s] %(message)s'
+    logging.basicConfig(level=logging.DEBUG, format=FORMAT)
+
     params = {}
 
     params["max_document_len"] = 25

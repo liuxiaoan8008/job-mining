@@ -113,11 +113,25 @@ def auto_label(input_file,output_entity_file,output_noentity_file):
     output_noentity_f.close()
 
 
+# easy title sort
+def title_sort(input_file,output_file):
+    skill_list = []
+    with open(input_file) as f:
+        for line in f:
+            line = unicode(line.strip(), 'utf-8')
+            skill_list.append(line)
 
+    skill_list = list(enumerate(skill_list))
+    print skill_list[0]
+    skill_list_sort = sorted(skill_list,key=lambda x:x[1])
+    with open(output_file,'w') as f:
+        for skill in skill_list_sort:
+            f.write(skill[1]+'\t'+str(skill[0])+'\n')
 
 
 if __name__=='__main__':
     # rebuild_data('../data/jobDesCleaning2.txt','../data/jobDesClening2_sublines.txt')
     # ex_skill_dict('../data/jobDesClening2_sublines.txt','../data/skill_fre_10.txt')
     # skill_similarity('../data/skill_fre_10.txt','../data/skill_sim.txt')
-    auto_label('../data/jobDesClening2_sublines.txt','../data/jobDes_entity_data.txt','../data/jobDes_noentity_data.txt')
+    # auto_label('../data/jobDesClening2_sublines.txt','../data/jobDes_entity_data.txt','../data/jobDes_noentity_data.txt')
+    title_sort('../data/title_result.txt','../data/title_result_sim.txt')
