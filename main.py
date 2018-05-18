@@ -47,6 +47,64 @@ def get_entity(model, input_file,output_file):
             output_f.write('\t'.join(skill_entitys)+'\n')
     output_f.close()
 
+
+def get_skill_RDF(input_file1,input_file2,output_file):
+    job_list = ['' for i in range(2000)]
+    with open(input_file1) as f:
+        for line in f:
+            line = unicode(line.strip(), 'utf-8')
+            line_list = line.split('\t')
+            job_list[int(line_list[2])] = line_list[0]
+
+    skill_list = []
+    with open(input_file2) as f:
+        for line in f:
+            line = unicode(line.strip(), 'utf-8')
+            line_list = line.split('\t')
+            skill_list.append(line_list)
+
+    skills_jobs = []
+    skills = {}
+
+    idx = 0
+    for i in range(len(skill_list)):
+        job = job_list[i]
+        for skill in skill_list[i]:
+            if skill not in skills:
+                skill_jobs = {}
+                skill_jobs['skill'] = skill
+                skill_jobs['count'] = 1
+                skill_jobs['jobs'] = set()
+                skill_jobs['jobs'].add(job)
+
+                skills_jobs.append(skill_jobs)
+
+                skills[skill] = idx
+                idx += 1
+            else:
+                skills_jobs[skills[skill]]['jobs'].add(job)
+
+    for i in range(len(skills_jobs)):
+        skills_jobs[i]['jobs'] = list(skills_jobs[i]['jobs'])
+        skills_jobs[i]['count'] = len(skills_jobs[i]['jobs'])
+
+    output_f = open(output_file,'w')
+    output_f.write(json.dumps(skills_jobs))
+    print 'done.'
+
+def sort_skill_RDF(input_file):
+    RDF_str = unicode(open(input_file).readline().strip(), 'utf-8')
+    skills_jobs = json.loads(RDF_str)
+
+    skills_dict = []
+    for skill in skills_jobs:
+        skills_dict.append((skill['skill'],skill['count']))
+
+    skills_dict = sorted(skills_dict,key=lambda x:x[1],reverse=True)
+    for skill,count in skills_dict:
+        print '%s  %d' % (skill,count)
+
+
 def get_RDF(input_file1,input_file2,output_file):
     job_list = []
     with open(input_file1) as f:
@@ -100,7 +158,7 @@ def get_RDF(input_file1,input_file2,output_file):
     print 'done.'
 
 
-def RDF2graph(input_file,output_file):
+def RDF2graph(input_file,output_file,job_type):
     RDF_str = unicode(open(input_file).readline().strip(),'utf-8')
     jobs_skills = json.loads(RDF_str)
 
@@ -110,7 +168,13 @@ def RDF2graph(input_file,output_file):
 
     skill_names = []
 
+
     for i in range(len(jobs_skills)):
+
+        # print jobs_skills[i]['job']
+        # if jobs_skills[i]['job'] != job_type:
+        #     continue
+
         color = '#%02X%02X%02X' % (0, 0, 0)
 
         x = random.uniform(-100,100)
@@ -158,8 +222,44 @@ def RDF2graph(input_file,output_file):
 
             graph['edges'].append(edge)
 
+    print(len(graph['nodes']))
+    print(len(graph['edges55']))
+
     with open(output_file,'w') as f:
         f.write('var json = '+ json.dumps(graph))
+
+
+def sort_position_RDF(input_file, position_type):
+    RDF_str = unicode(open(input_file).readline().strip(),'utf-8')
+    jobs_skills = json.loads(RDF_str)
+
+    skills_dict = []
+    for i in range(len(jobs_skills)):
+
+        print jobs_skills[i]['job']
+        if jobs_skills[i]['job'] != position_type:
+            continue
+        for skill in jobs_skills[i]['skills']:
+            skills_dict.append((skill['name'], skill['count']))
+
+    skills_dict = sorted(skills_dict,key=lambda x:x[1],reverse=True)
+    print
+    for skill,count in skills_dict:
+        print '%s  %d' % (skill,count)
+
+
+def statistic_position_RDF(input_file):
+    RDF_str = unicode(open(input_file).readline().strip(),'utf-8')
+    jobs_skills = json.loads(RDF_str)
+
+    skills_dict = []
+    for i in range(len(jobs_skills)):
+        skills_dict.append((jobs_skills[i]['job'], len(jobs_skills[i]['skills'])))
+
+    skills_dict = sorted(skills_dict,key=lambda x:x[1],reverse=True)
+    print
+    for skill,count in skills_dict:
+        print '%s  %d' % (skill,count)
 
 
 
@@ -188,5 +288,14 @@ if __name__=='__main__':
     # deep_ner('test','./models','./data/skill_entity_train_data.txt','./data/skill_entity_valid_data.txt')
     # get_RDF('./data/title_classfy.txt','./data/job_skills.txt','./data/job_skills.json')
     # RDF2graph('./data/job_skills.json','./data/job_graph.json')
-    RDF2graph('./data/job_skills.json', './data/all_jobs_skills.js')
+    RDF2graph('./data/job_skills.json', './data/all_jobs_skills.js','')
+    # RDF2graph('./data/job_skills.json', './echarts/robot.js', '机器人')
+    # sort_position_RDF('./data/job_skills.json','机器人')
+
+    # statistic_position_RDF('./data/job_skills.json')
+
+
+    # get_skill_RDF('./data/title_classfy.txt','./data/job_skills.txt','./data/skills_jobs.json')
+    # sort_skill_RDF('./data/skills_jobs.json')
+
 

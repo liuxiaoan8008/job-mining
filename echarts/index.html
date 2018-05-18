@@ -9,7 +9,7 @@
 </head>
 <body>
 <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
-<div id="main" style="width: 1200px;height:900px;background-color: azure;"></div>
+<div id="main" style="width: 1200px;height:900px;background-color: white;"></div>
 <script type="text/javascript">
     console.log(11);
     var myChart = echarts.init(document.getElementById('main'));
@@ -36,7 +36,7 @@
 
     var option1 = {
         title: {
-            text: 'NPM Dependencies'
+            text: ''
         },
         animationDurationUpdate: 1500,
         animationEasingUpdate: 'quinticInOut',
@@ -66,6 +66,7 @@
                     };
                 }),
                 label: {
+                    show: true,
                     emphasis: {
                         position: 'right',
                         show: true
